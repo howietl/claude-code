@@ -145,6 +145,17 @@
       },
       "source": "./plugins/security-guidance",
       "category": "security"
+    },
+    {
+      "name": "product-positioning",
+      "description": "Product positioning, messaging, and PR skill for SaaS and software companies. Create positioning statements, messaging frameworks, press releases, and marketing copy using proven frameworks.",
+      "version": "1.0.0",
+      "author": {
+        "name": "Claude Code",
+        "email": "support@anthropic.com"
+      },
+      "source": "./plugins/product-positioning",
+      "category": "marketing"
     }
   ]
 }

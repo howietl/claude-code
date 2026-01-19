@@ -1,0 +1,9 @@
+{
+  "name": "product-positioning",
+  "version": "1.0.0",
+  "description": "Product positioning, messaging, and PR skill for SaaS and software companies",
+  "author": {
+    "name": "Claude Code",
+    "email": "support@anthropic.com"
+  }
+}
